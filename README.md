@@ -1,4 +1,4 @@
-# flatten_array
+# Flatten Array
 ## Use
 `include './flatten_array'`
 
