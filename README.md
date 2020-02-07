@@ -1,5 +1,7 @@
 # flatten_array
 ## Use
+`include './flatten_array'`
+
 `FlattenArray.call([[1], 2, 3])`
 
 ## Run Spec
