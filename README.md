@@ -4,6 +4,7 @@
 
 ## Run Spec
 `bundle install`
+
 `ruby flatten_array_spec.rb`
 
 
